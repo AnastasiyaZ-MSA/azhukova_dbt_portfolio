@@ -1,0 +1,1 @@
+select * from test_data.line_item_copy
